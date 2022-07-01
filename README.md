@@ -4,7 +4,7 @@
 
 
 
-2nd Year B.Tech CSE at GNDU,Amritsar <br />
+2nd Year B.Tech CSE student at GNDU,Amritsar <br />
 I am currently learning C/C++ <br />
 Also learning about DBMS <br />
 ‣ Projects I have worked on- <br />
