@@ -1,16 +1,16 @@
-### HELLO 😊
-I am TANISHA 
+<h1 align="center">HELLO 😊</h1>
+<h1 align="center">I am TANISHA 💎 </h1>
 
-<!--
-**TanishaSharma25/TanishaSharma25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-2nd Year B.Tech CSE at GNDU,Amritsar
-I am currently learning C/C++
-Also learning about DBMS
-Projects I have worked on-
-  ★ Google Translator-Python Project used to convert any text to desirable language using Googletrans a python library.
-  ★ Super Market-Python Project which helps us to add products by using barcode scanner, update products, view them and then raise a bill.
-Projects I am working on-
-  ✯ Weather App-Python Project to forecast weather anywhere around the world by using weather API and tkinter.
 
--->
+
+2nd Year B.Tech CSE at GNDU,Amritsar <br />
+I am currently learning C/C++ <br />
+Also learning about DBMS <br />
+‣ Projects I have worked on- <br />
+   ★ [**Google Translator**](https://github.com/TanishaSharma25/Google-Translator)-Python Project used to convert any text to desirable language using Googletrans a python library. <br />
+   ★ [**Super Market**](https://github.com/TanishaSharma25/Super-Market-App)-Python Project which helps us to add products by using barcode scanner, update products, view them and then raise a bill. <br />
+‣ Projects I am working on- <br />
+   ★ [**Weather App**](https://github.com/TanishaSharma25/Weather)-Python Project to forecast weather anywhere around the world by using weather API and tkinter. <br />
+
+
