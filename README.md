@@ -1,5 +1,5 @@
-<h1 align="center">HELLO 😊</h1>
-<h1 align="center">I am TANISHA 💎 </h1>
+<h1 align="center">HELLO, I am TANISHA 💎</h1>
+
 
 
 
