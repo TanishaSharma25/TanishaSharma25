@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Tanisha 👋</h1>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/64729135/176873374-8788bb92-7f79-4c62-bfff-b828536f5ef8.png">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/64729135/176873374-8788bb92-7f79-4c62-bfff-b828536f5ef8.png">
 
 
 
