@@ -4,8 +4,8 @@
 
 
 - 2nd Year B.Tech CSE student at GNDU,Amritsar <br />
-- I am currently learning C/C++ <br />
-- Also learning about DBMS <br />
+- I am currently learning Frontend Develoment <br />
+- Also learning about DSA <br />
 
 
 ##
