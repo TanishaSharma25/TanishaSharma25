@@ -3,9 +3,8 @@
 
 
 
-- 3rd Year B.Tech CSE student at GNDU, Amritsar <br />
-- I am currently learning Frontend Develoment <br />
-- Also learning about DSA <br />
+- 4rd Year B.Tech CSE student at GNDU, Amritsar <br />
+- I am currently learning Web Develoment <br />
 
 
 ##
@@ -17,7 +16,7 @@
 ##
 
 - Projects I am working on- <br />
-   - [**Weather App**](https://github.com/TanishaSharma25/Weather-App)-Python Project to forecast weather anywhere around the world by using weather API and tkinter. <br />
+   - [**E-Commerce-Website**]-A E-Commerce Website made using mern stack <br />
 
 ##
 
