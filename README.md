@@ -12,11 +12,12 @@
 - Projects I have worked on- <br />
    - [**Google Translator**](https://github.com/TanishaSharma25/Google-Translator)-Python Project used to convert any text to desirable language using Googletrans a python library. <br />
    - [**Super Market**](https://github.com/TanishaSharma25/Super-Market)-Python Project which helps us to add products by using barcode scanner, update products, view them and then raise a bill. <br />
+   - [**Simon Game**](https://github.com/TanishaSharma25/The-Simon-Game)-A Project used to test your memory, made using Jquery. <br />
    
 ##
 
 - Projects I am working on- <br />
-   - [**E-Commerce-Website**]-A E-Commerce Website made using mern stack <br />
+   - **E-Commerce Website** -A E-Commerce Website made using Mern stack. <br />
 
 ##
 
