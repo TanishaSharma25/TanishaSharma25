@@ -3,8 +3,8 @@
 
 
 
-- 4rd Year B.Tech CSE student at GNDU, Amritsar <br />
-- I am currently learning Web Develoment <br />
+- B.Tech CSE 2025 batch Guru Nanak Dev Universty, Amritsar <br />
+-  <br />
 
 
 ##
