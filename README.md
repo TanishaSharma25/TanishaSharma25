@@ -4,7 +4,6 @@
 
 
 - B.Tech CSE 2025 batch Guru Nanak Dev Universty, Amritsar <br />
--  <br />
 
 
 ##
